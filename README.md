@@ -3,6 +3,9 @@
 Projeto desenvolvido durante o bootcamp HTML Web Developer, nele foi recriado o famoso jogo da cobrinha em HTML, CSS e Javascript.
 
  
+ 
+ 
+ 
 
 <h3>Instruções</h3> 
 
@@ -18,4 +21,4 @@ Projeto desenvolvido durante o bootcamp HTML Web Developer, nele foi recriado o 
 
 * Outros: 
 
-  Para recomeçar o jogo basta recarregar a página
+  Para recomeçar o jogo basta recarregar a página.
